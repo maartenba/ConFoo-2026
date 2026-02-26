@@ -14,13 +14,14 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|                                                                                                                                           
 | Figma dev mode - Survivre aux designers | Mathys Deshaies | [PDF](2026-02-25/figma_dev_mode_survivre_aux_designers-mathys_deshaies.pdf) |
+| Simultaneous editing: Easy with Symfony UX | David Buchmann | [HTML](2026-02-25/david-buchmann-symfony-ux.html) |
 
 ## February 26
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
-| From Zero to Emulator CHIP8 and the Art of Abstraction | David Guida | [PDF](./‎2026-02-26/chip8-emulation.pdf) |
-| Blending Product Thinking With Architecture | Joel Tosi | [PDF](./‎2026-02-26/Blending_Product_Thinking_With_Architecture-Joel_Tosi.pdf) |
-
+| From Zero to Emulator CHIP8 and the Art of Abstraction | David Guida | [PDF](2026-02-26/chip8-emulation.pdf) |
+| Blending Product Thinking With Architecture | Joel Tosi | [PDF](2026-02-26/Blending_Product_Thinking_With_Architecture-Joel_Tosi.pdf) |
+| Building PHP Applications with the Symfony Framework in 2026 | David Buchmann | [HTML](2026-02-26/david-buchmann-building-php-symfony.html) |
 
 ## February 27
 | Presentation Title | Speaker Name  | Content |
