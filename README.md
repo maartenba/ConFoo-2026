@@ -24,13 +24,14 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Component Testing in 2026, the return of the browser | Guy Nesher | [Slides (PDF)](2026-02-25/component_testing_in_2026_the_return_of_the_browser.pdf) |
 | Boosting Frontend Speed: Quick Wins for Backend Developers | Paul Conroy | [PDF](2026-02-25/boosting_frontend_speed_quick_wins-for_backend_developers-paul_conroy.pdf) |
 | ASP.NET Core: From DEV to PRD | Wesley Cabus | [PDF](2026-02-25/asp_net_core_from_dev_to_prd-wesley-cabus.pdf) |
+| Simultaneous editing: Easy with Symfony UX | David Buchmann | [HTML](2026-02-25/david-buchmann-symfony-ux.html) |
 
 ## February 26
 
 | Presentation Title | Speaker Name  | Content |
-|--------------------|---------------|---------|                                                                                                                                           
-| GraphQL Distilled | Kito D. Mann | [PDF](https://virtua.tech/slides/graphql-distilled-2026/) |
+|--------------------|---------------|---------|
 | From Zero to Emulator CHIP8 and the Art of Abstraction | David Guida | [PDF](2026-02-26/chip8-emulation.pdf) |
+| GraphQL Distilled | Kito D. Mann | [PDF](https://virtua.tech/slides/graphql-distilled-2026/) |
 | Blending Product Thinking With Architecture | Joel Tosi | [PDF](2026-02-26/Blending_Product_Thinking_With_Architecture-Joel_Tosi.pdf) |
 | Kubernetes on a Phone | Johannes Bechberger | [PDF](2026-02-26/kubernetes-johannes_bechberger.pdf) |
 | Avoiding Déjà Vu: Building Resilient APIs with Idempotency | Paul Conroy | [PDF](2026-02-26/avoiding_deja_vu_building_resilient_apis_with_idempotency-paul_conroy.pdf) |
@@ -38,7 +39,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | From Address to Dashboard: Weather History at Scale | Loïc Tréhin | [PDF](2026-02-26/from_address_to_dashboard_weather_history_at_scale-loic_trehin.pdf) |
 | ASP.NET Core Authentication Explained | Wesley Cabus | [PDF](2026-02-26/asp_net_core_authentication_explained-wesley_cabus.pdf) |
 | Rising After the Fall: Engineering Your Career Comeback | Kevin Goldsmith | [Slides (PDF)](2026-02-26//Rising_After_the_Fall_Engineering_Your_Career_Comeback-Kevin_Goldsmith.pdf) |
-
+| Building PHP Applications with the Symfony Framework in 2026 | David Buchmann | [HTML](2026-02-26/david-buchmann-building-php-symfony.html) |
 
 ## February 27
 
